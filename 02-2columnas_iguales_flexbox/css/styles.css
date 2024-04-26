@@ -46,7 +46,7 @@ h1 {
         justify-content: space-between;
         gap: 2rem;
     }
-    /** OTRA FORMA
+    /** OTRA FORMA  
     .entrada-blog{
         flex-basis: calc(50% - 1rem);
         /**flex: 0 0 calc(50% - 1rem);*
