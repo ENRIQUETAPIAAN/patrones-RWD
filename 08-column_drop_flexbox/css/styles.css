@@ -52,7 +52,7 @@ p {
     .column-drop-flex{
         display: flex;
         justify-content: space-between;
-        flex-wrap: wrap;
+        flex-wrap: wrap; /* acomoda lo que sobre en % en la parte de abajo */
         /**flex-wrap: wrap-reverse;**/
     }
     .contenido-principal,
